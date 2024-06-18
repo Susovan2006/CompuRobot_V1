@@ -1,0 +1,25 @@
+Generate a java program, that will track the mouse event and generate a json file similar to the below one 
+{
+	"rulesetVersion": "1.0",
+    "rulesetAuthor": "Susovan Sankar Gumtya",
+    "rulesetUpdateDate": "May-19-2024",
+    "rulesetDescription": "Ruleset for Java Application",
+    "ruleset": [
+		{
+			"actionId": 1,
+			"action": "move",
+			"xaxis": 100,
+			"yaxis": 200,
+			"delay": 5000,
+			"wordToType": "Hello, world!"
+		},
+		{
+			"actionId": 2,
+			"action": "move",
+			"xaxis": 100,
+			"yaxis": 200,
+			"delay": 5000,
+			"wordToType": "Hello, world!"
+		}
+	]
+} When the user move the mouse to a location, the action will be like mouseMove, the co-ordinate will be populated in xaxis and yaxis variable, if the user clicks the mouse on a certain location the action will be mouseClick. The delay between each event will be tracked in the delay variable in milisec. the recording will be terminated and the file will be generated when the user clicks on the escape button. The program should also terminate.
