@@ -1,0 +1,25 @@
+{
+	"rulesetVersion": "1.0",
+    "rulesetAuthor": "Susovan Sankar Gumtya",
+    "rulesetUpdateDate": "May-19-2024",
+    "rulesetDescription": "Ruleset for Java Application",
+    "ruleset": [
+		{
+			"actionId": 1,
+			"action": "move",
+			"xaxis": 100,
+			"yaxis": 200,
+			"delay": 5000,
+			"wordToType": "Hello, world!"
+		},
+		{
+			"actionId": 2,
+			"action": "move",
+			"xaxis": 100,
+			"yaxis": 200,
+			"delay": 5000,
+			"wordToType": "Hello, world!"
+		}
+	]
+}
+		

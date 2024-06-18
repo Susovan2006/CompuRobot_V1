@@ -1,0 +1,105 @@
+{
+  "rulesetVersion": "1.0",
+  "rulesetAuthor": "@Author",
+  "rulesetUpdateDate": "Jun-17-2024",
+  "rulesetDescription": "Ruleset for _______",
+  "ruleset": [
+    {
+      "actionId": 1,
+      "xaxis": 84,
+      "yaxis": 704,
+      "action": "Left Click",
+      "delay": "1000"
+    },
+    {
+      "actionId": 2,
+      "xaxis": 95,
+      "yaxis": 703,
+      "action": "KeyBoard Entry",
+      "delay": "1000",
+      "wordToType": "Chrome"
+    },
+    {
+      "actionId": 3,
+      "xaxis": 106,
+      "yaxis": 154,
+      "action": "Left Click",
+      "delay": "1000"
+    },
+    {
+      "actionId": 4,
+      "xaxis": 238,
+      "yaxis": 187,
+      "action": "Custom Key Press/ShotCuts",
+      "delay": "1000",
+      "shortcuts": "F11"
+    },
+    {
+      "actionId": 5,
+      "xaxis": 478,
+      "yaxis": 220,
+      "action": "Custom Key Press/ShotCuts",
+      "delay": "1000",
+      "shortcuts": "F11"
+    },
+    {
+      "actionId": 6,
+      "xaxis": 222,
+      "yaxis": 63,
+      "action": "Left Click",
+      "delay": "1000"
+    },
+    {
+      "actionId": 7,
+      "xaxis": 211,
+      "yaxis": 65,
+      "action": "KeyBoard Entry",
+      "delay": "1000",
+      "wordToType": "www.google.com"
+    },
+    {
+      "actionId": 8,
+      "xaxis": 1009,
+      "yaxis": 61,
+      "action": "Hit Enter",
+      "delay": "1000"
+    },
+    {
+      "actionId": 9,
+      "xaxis": 391,
+      "yaxis": 289,
+      "action": "Left Click",
+      "delay": "1000"
+    },
+    {
+      "actionId": 10,
+      "xaxis": 390,
+      "yaxis": 285,
+      "action": "KeyBoard Entry",
+      "delay": "1000",
+      "wordToType": "How to write a java code in Eclipse"
+    },
+    {
+      "actionId": 11,
+      "xaxis": 798,
+      "yaxis": 288,
+      "action": "Hit Enter",
+      "delay": "1000"
+    },
+    {
+      "actionId": 12,
+      "xaxis": 1274,
+      "yaxis": 139,
+      "action": "Left Click",
+      "delay": "1000"
+    },
+    {
+      "actionId": 13,
+      "xaxis": 1274,
+      "yaxis": 126,
+      "action": "Mouse Scroll Down",
+      "delay": "1000",
+      "scrollNotchCount": "3"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "rulesetVersion": "1.0",
+  "rulesetAuthor": "@Author",
+  "rulesetUpdateDate": "Jun-17-2024",
+  "rulesetDescription": "Ruleset for _______",
+  "ruleset": [
+    {
+      "actionId": 1,
+      "xaxis": 90,
+      "yaxis": 702,
+      "action": "Left Click",
+      "delay": "200"
+    },
+    {
+      "actionId": 2,
+      "xaxis": 92,
+      "yaxis": 699,
+      "wordToType": "chrome",
+      "action": "KeyBoard Entry",
+      "delay": "1000"
+    },
+    {
+      "actionId": 3,
+      "xaxis": 121,
+      "yaxis": 152,
+      "action": "Left Click",
+      "delay": "3000"
+    },
+    {
+      "actionId": 4,
+      "xaxis": 195,
+      "yaxis": 65,
+      "action": "Left Click",
+      "delay": "2000"
+    },
+    {
+      "actionId": 5,
+      "xaxis": 204,
+      "yaxis": 61,
+      "wordToType": "www.google.com",
+      "action": "KeyBoard Entry",
+      "delay": "1000"
+    },
+    {
+      "actionId": 6,
+      "xaxis": 993,
+      "yaxis": 61,
+      "action": "Hit Enter",
+      "delay": "3000"
+    },
+    {
+      "actionId": 7,
+      "xaxis": 392,
+      "yaxis": 288,
+      "action": "Left Click",
+      "delay": "1000"
+    },
+    {
+      "actionId": 8,
+      "xaxis": 390,
+      "yaxis": 290,
+      "wordToType": "How to write Java Program in Java",
+      "action": "KeyBoard Entry",
+      "delay": "1000"
+    },
+    {
+      "actionId": 9,
+      "xaxis": 821,
+      "yaxis": 290,
+      "action": "Hit Enter",
+      "delay": "3000"
+    }
+  ]
+}
